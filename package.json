@@ -20,8 +20,7 @@
     "wanakana": "^5.3.1"
   },
   "devDependencies": {
-    "httpserver": "^0.3.0",
-    "sharp": "^0.34.0",
+    "sharp": "^0.35.5",
     "vite": "^7.1.0",
     "vite-plugin-pwa": "^1.0.0"
   }
