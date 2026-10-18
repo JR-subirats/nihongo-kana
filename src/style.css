@@ -95,7 +95,7 @@ h1 { font-size: 33px; font-weight: 550; line-height: 1.25; margin: 10px 0 10px; 
 .quiz-feedback svg { width: 13px; height: 13px; }
 .quiet-dots { color: #b0b9b0; font-size: 18px; }
 .quiz-feedback.is-correct { background: #edf6ef; color: #3c7b51; }
-.quiz-feedback.is-incorrect { background: #fbefed; color: #b16357; }
+.quiz-feedback.is-incorrect { font-size: 18px;background: #fbefed; color: #b16357; }
 .next-button { background: none; display: flex; align-items: center; gap: 7px; font-size: 11px; font-weight: 600; white-space: nowrap; padding: 4px 0 4px 8px; }
 .session-strip { display: flex; align-items: center; gap: 14px; margin-top: 16px; font-size: 10px; color: #8e9a91; min-height: 25px; }
 .session-strip > div { display: flex; align-items: center; gap: 7px; }
